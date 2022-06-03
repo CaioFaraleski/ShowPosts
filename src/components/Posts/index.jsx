@@ -1,4 +1,5 @@
-import { PostCard } from "../PostCard"
+import { PostCard } from "../PostCard";
+import './styles.scss';
 
 export const Posts = ({ posts }) => {
     return (
